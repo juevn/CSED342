@@ -1,0 +1,16 @@
+extraCredit: 0
+fatalError: false
+maxExtraCredit: 0
+maxTotalPoints: 8
+messages: []
+mode: auto
+parts:
+- description: Tests alphabeta
+  extraCredit: false
+  maxPoints: 8
+  maxSeconds: 10
+  messages: []
+  name: 5a-2-hidden
+  points: 8
+  seconds: 5
+totalPoints: 8

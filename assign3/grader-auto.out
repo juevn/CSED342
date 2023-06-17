@@ -1,0 +1,202 @@
+extraCredit: 0
+fatalError: false
+maxExtraCredit: 0
+maxTotalPoints: 36
+messages: []
+mode: auto
+parts:
+- description: ''
+  extraCredit: false
+  maxPoints: 1
+  maxSeconds: 2
+  messages: []
+  name: 1a-1-basic
+  points: 1
+  seconds: 0
+- description: ''
+  extraCredit: false
+  maxPoints: 1
+  maxSeconds: 2
+  messages: []
+  name: 1a-2-basic
+  points: 1
+  seconds: 0
+- description: ''
+  extraCredit: false
+  maxPoints: 1
+  maxSeconds: 3
+  messages: []
+  name: 1a-3-hidden
+  points: 1
+  seconds: 0
+- description: ''
+  extraCredit: false
+  maxPoints: 1
+  maxSeconds: 3
+  messages: []
+  name: 1a-4-hidden
+  points: 1
+  seconds: 0
+- description: ''
+  extraCredit: false
+  maxPoints: 1
+  maxSeconds: 2
+  messages: []
+  name: 1b-1-basic
+  points: 1
+  seconds: 0
+- description: ''
+  extraCredit: false
+  maxPoints: 2
+  maxSeconds: 3
+  messages:
+  - 'Exception thrown: <class ''AttributeError''> -- module ''solution'' has no attribute
+    ''segmentKWords'''
+  - "  File \"/Users/jueun/POSTECH/CSE/AI/release/grader.py\", line 195, in t_1b_2\n\
+    \    answer = solution.segmentKWords(k, text, unigramCost)\n"
+  name: 1b-2-hidden
+  points: 0
+  seconds: 0
+- description: ''
+  extraCredit: false
+  maxPoints: 3
+  maxSeconds: 3
+  messages:
+  - 'Exception thrown: <class ''AttributeError''> -- module ''solution'' has no attribute
+    ''segmentKWords'''
+  - "  File \"/Users/jueun/POSTECH/CSE/AI/release/grader.py\", line 209, in t_1b_3\n\
+    \    answer = solution.segmentKWords(k, part, unigramCost)\n"
+  name: 1b-3-hidden
+  points: 0
+  seconds: 0
+- description: ''
+  extraCredit: false
+  maxPoints: 1
+  maxSeconds: 2
+  messages: []
+  name: 2a-1-basic
+  points: 1
+  seconds: 0
+- description: ''
+  extraCredit: false
+  maxPoints: 1
+  maxSeconds: 2
+  messages: []
+  name: 2a-2-hidden
+  points: 1
+  seconds: 0
+- description: ''
+  extraCredit: false
+  maxPoints: 1
+  maxSeconds: 3
+  messages: []
+  name: 2a-3-hidden
+  points: 1
+  seconds: 0
+- description: ''
+  extraCredit: false
+  maxPoints: 1
+  maxSeconds: 3
+  messages: []
+  name: 2a-4-hidden
+  points: 1
+  seconds: 0
+- description: ''
+  extraCredit: false
+  maxPoints: 1
+  maxSeconds: 2
+  messages: []
+  name: 2b-1-basic
+  points: 1
+  seconds: 0
+- description: ''
+  extraCredit: false
+  maxPoints: 2
+  maxSeconds: 2
+  messages:
+  - 'Exception thrown: <class ''AttributeError''> -- module ''solution'' has no attribute
+    ''insertLimitedVowels'''
+  - "  File \"/Users/jueun/POSTECH/CSE/AI/release/grader.py\", line 398, in t_2b_2\n\
+    \    answer = solution.insertLimitedVowels(impossible_vowels, word_seq, bigramCost,\
+    \ possibleFills)\n"
+  name: 2b-2-hidden
+  points: 0
+  seconds: 0
+- description: ''
+  extraCredit: false
+  maxPoints: 3
+  maxSeconds: 3
+  messages:
+  - 'Exception thrown: <class ''AttributeError''> -- module ''solution'' has no attribute
+    ''insertLimitedVowels'''
+  - "  File \"/Users/jueun/POSTECH/CSE/AI/release/grader.py\", line 412, in t_2b_3\n\
+    \    answer = solution.insertLimitedVowels(impossible_vowels, ws, bigramCost,\
+    \ possibleFills)\n"
+  name: 2b-3-hidden
+  points: 0
+  seconds: 0
+- description: ''
+  extraCredit: false
+  maxPoints: 1
+  maxSeconds: 2
+  messages: []
+  name: 3a-1-basic
+  points: 1
+  seconds: 0
+- description: ''
+  extraCredit: false
+  maxPoints: 1
+  maxSeconds: 2
+  messages: []
+  name: 3a-2-basic
+  points: 1
+  seconds: 0
+- description: ''
+  extraCredit: false
+  maxPoints: 1
+  maxSeconds: 3
+  messages: []
+  name: 3a-3-hidden
+  points: 1
+  seconds: 0
+- description: ''
+  extraCredit: false
+  maxPoints: 3
+  maxSeconds: 3
+  messages: []
+  name: 3a-4-hidden
+  points: 3
+  seconds: 0
+- description: ''
+  extraCredit: false
+  maxPoints: 3
+  maxSeconds: 3
+  messages: []
+  name: 4a-1-basic
+  points: 3
+  seconds: 0
+- description: ''
+  extraCredit: false
+  maxPoints: 1
+  maxSeconds: 3
+  messages: []
+  name: 4a-2-basic
+  points: 1
+  seconds: 0
+- description: ''
+  extraCredit: false
+  maxPoints: 3
+  maxSeconds: 8
+  messages: []
+  name: 4b-1-hidden
+  points: 3
+  seconds: 3
+- description: ''
+  extraCredit: false
+  maxPoints: 3
+  maxSeconds: 5
+  messages: []
+  name: 4b-2-hidden
+  points: 3
+  seconds: 3
+totalPoints: 26
